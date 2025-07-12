@@ -18,16 +18,16 @@ This project focuses on implementing and training a reinforcement learning agent
 
 <p align="center">
 OpenAI Gym Environment Setup and Agent Initialization <br />
-<img src="https://i.imgur.com/HGWuGhK.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HGWuGhK.jpeg"/>
 <br />
 <br />
 Train the RL Agent <br/>
-<img src="https://i.imgur.com/3OIEcXV.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3OIEcXV.jpeg"/>
 <br />
 <br />
 Evaluate the Trained Agent <br/>
-<img src="https://i.imgur.com/z0ZKrFu.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/GiPh84I.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/z0ZKrFu.jpeg" />
+<img src="https://i.imgur.com/GiPh84I.jpeg"/>
 <br />
 <br />
 
